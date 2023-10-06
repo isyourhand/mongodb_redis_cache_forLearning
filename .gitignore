@@ -1,0 +1,6 @@
+express-redis-om-workshop/node_modules
+express-redis-om-workshop/node_modules/.env
+testFolder-mongodb/node_modules
+testFolder-mongodb/.env
+testFolder-redis/node_modules
+testFolder-redis/.env
